@@ -1,0 +1,50 @@
+ 1. D - Augusta
+ 2. A - Pierre
+ 3. A - Lincoln
+ 4. A - Montgomery
+ 5. D - Phoenix
+ 6. A - Oklahoma City
+ 7. D - Des Moines
+ 8. D - Salem
+ 9. C - Tallahassee
+10. D - Annapolis
+11. A - Richmond
+12. A - Olympia
+13. A - Santa Fe
+14. A - Columbia
+15. D - Austin
+16. B - Salt Lake City
+17. C - Trenton
+18. D - Jackson
+19. B - Sacramento
+20. D - Denver
+21. D - Albany
+22. A - Boise
+23. A - Helena
+24. C - Honolulu
+25. B - Carson City
+26. D - Montpelier
+27. D - Nashville
+28. B - Charleston
+29. A - Boston
+30. D - Madison
+31. A - Dover
+32. B - Hartford
+33. B - Lansing
+34. D - Topeka
+35. C - Baton Rouge
+36. B - Harrisburg
+37. C - Springfield
+38. C - Cheyenne
+39. C - Raleigh
+40. D - Frankfort
+41. D - Jefferson City
+42. C - Providence
+43. D - Atlanta
+44. C - Columbus
+45. B - Indianapolis
+46. D - Concord
+47. D - Saint Paul
+48. C - Bismarck
+49. C - Juneau
+50. C - Little Rock
